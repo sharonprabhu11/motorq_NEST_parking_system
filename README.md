@@ -15,7 +15,7 @@ Design and implement a Parking Lot Management System that:
 
 ### Parking Lot & Slots
 
-- Multi-level parking with dynamic slot assignment.
+- Multi-level parking 
 - Slot types:
   - `Regular` – Standard vehicles
   - `Electric` – EVs (with charging)
@@ -44,3 +44,5 @@ Design and implement a Parking Lot Management System that:
 - Fines for exceeding max parking duration
 
 ---
+- version 1 -> what I coded during the coding round
+- version 2 -> improved version with better object orientation
